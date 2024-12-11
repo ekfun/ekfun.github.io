@@ -1,6 +1,4 @@
-# EK Fun Unblocked Games 
-
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Totally Real ROBLOX</title>
