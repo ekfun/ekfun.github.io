@@ -1,7 +1,10 @@
 # EK Fun Unblocked Games 
 
 <DOCTYPE html>
-<html>
+<html lang="en">
+  <head>
+    <title>Toatlly Real ROBLOX</title>
+  </head>
 <body>
 
 <img src="https://www.cdnlogo.com/logos/r/54/roblox.svg" alt="ROBLOX" width="200" height="75">
