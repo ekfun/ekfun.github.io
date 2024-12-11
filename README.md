@@ -3,7 +3,7 @@
 <DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Toatlly Real ROBLOX</title>
+    <title>Totally Real ROBLOX</title>
   </head>
 <body>
 
