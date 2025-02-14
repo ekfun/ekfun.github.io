@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: top left;
     height: 100vh;
     background-color: #f7f7f7;
     margin: 0;
