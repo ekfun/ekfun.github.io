@@ -10,7 +10,6 @@
             background-color: #E3CDFF;
             display: flex;
             flex-direction: column;
-            justify-content: center; /* Centers content vertically */
             align-items: center; /* Centers content horizontally */
             height: 100vh; /* Full viewport height */
             margin: 0; /* Resets default margin */
@@ -34,8 +33,9 @@
 
         .game-container {
             display: flex;
-            gap: 55px; /* Adjust spacing between games */
-            align-items: flex-start; /* Keeps everything aligned at the top */
+            flex-direction: column; /* Align games vertically */
+            align-items: flex-start; /* Aligns games to the left */
+            gap: 55px; /* Spaces between game items */
         }
 
         .game {
@@ -54,35 +54,3 @@
     </style>
 </head>
 <body>
-    <div class="bubble-1">EKFUN GAME HOME</div>
-    <div class="game-container">
-        <div class="game">
-            <h2><a href="https://ekfun.github.io/tiny-fishing/">Tiny Fishing!</a></h2>
-            <a href="https://ekfun.github.io/tiny-fishing/">
-                <img src="https://gaamess.com/wp-content/uploads/2022/01/tiny-fishing.jpg">
-            </a>
-        </div>
-
-        <div class="game">
-            <h2><a href="https://ekfun.github.io/slither-io/">Slither.IO!</a></h2>
-            <a href="https://ekfun.github.io/slither-io/">
-                <img src="https://play-lh.googleusercontent.com/oObkhKfUXOY5yzheKe9w1Y1pXZBgdiSksMeNmT0BijoQ8J75maTCIW2TA7-6pA6EMA">
-            </a>
-        </div>
-
-        <div class="game">
-            <h2><a href="https://ekfun.github.io/fruit-ninja/">Fruit Ninja!</a></h2>
-            <a href="https://ekfun.github.io/fruit-ninja/">
-                <img src="https://th.bing.com/th/id/OIP.v2vBzMN4-oDhz3foT2QzDQHaHa?rs=1&pid=ImgDetMain">
-            </a>
-        </div>
-
-        <div class="game">
-            <h2><a href="https://ekfun.github.io/axis-football-league/">Axis Football League!</a></h2>
-            <a href="https://ekfun.github.io/axis-football-league/">
-                <img src="https://github.com/ekfun/ekfun.github.io/blob/main/game%20pics/afloip-removebg-preview.png?raw=true">
-            </a>
-        </div>
-    </div>
-</body>
-</html>
